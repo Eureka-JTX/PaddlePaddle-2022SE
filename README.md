@@ -1,6 +1,6 @@
 # PaddlePaddle-2022SE
 2022年暑假企业实训-百度飞桨
 
-**branch-test**
+**个人作业-足球VAR目标检测追踪**
 
-<https://docs.github.com/cn/get-started/quickstart/hello-world>
+<https://aistudio.baidu.com/aistudio/projectdetail/4307522>
